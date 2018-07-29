@@ -31,11 +31,11 @@ This program has the below dependencies but will likely work with newer versions
 5. Run: **pc_completion.py** - train
     - use *run_option* = 1
     - make sure *self.dataset_folder* is set correctly
-6. Run: **pc_completion.py** - test
+6. Run: **pc_completion.py** - test depth map
     - use *run_option* = 3
     - make sure *self.dataset_folder* is set correctly
     - this will provide the depth map error
-7. Run: **pc_errors.m** from inside *dataset_utils*
+7. Run: **pc_errors.m** from inside *dataset_utils* - test point cloud
     - make sure that *folder*, *obj_nums* and *im_nums* as set correctly
 
 
