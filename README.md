@@ -12,6 +12,7 @@ This project and parts of its code were inspired by "Multi-view 3D Models from S
 
 ## Dependencies
 This program has the below dependencies but will likely work with newer versions as well:
+- Ubuntu 16.04
 - Python 2.7
 - Tensorflow 0.12
 - Panda3D 1.9.3
