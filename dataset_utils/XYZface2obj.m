@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% XYZface2ply.m
+% XYZface2obj.m
 %
 % Author: Nolan Lunscher
 %
@@ -15,7 +15,7 @@
 %     }
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-function XYZface2ply(fileName, points, faces)
+function XYZface2obj(fileName, points, faces)
 
 num_points = length(points);
 num_faces = length(faces);
