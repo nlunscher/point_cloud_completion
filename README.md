@@ -4,7 +4,7 @@
 
 Nolan Lunscher and John Zelek
 
-![alt tag](https://github.com/nlunscher/pc_completion0/blob/master/io_setup.png)
+![alt tag](https://github.com/nlunscher/point_cloud_completion/blob/master/io_setup.png)
 
 This code was used for my paper presented in the Computer Vision for Fashion Workshop in ICCV 2017. If you find it useful in your works, please site the original paper.
 
