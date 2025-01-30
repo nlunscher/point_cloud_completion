@@ -40,7 +40,7 @@ This program has the below dependencies but will likely work with newer versions
     - make sure that *folder*, *obj_nums* and *im_nums* as set correctly
 
 
-## Citation 
+## Citation
 When using the code in your work, please cite the following paper:
 
     @InProceedings{Lunscher_2017_ICCV_Workshops,
