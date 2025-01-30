@@ -40,8 +40,8 @@ This program has the below dependencies but will likely work with newer versions
     - make sure that *folder*, *obj_nums* and *im_nums* as set correctly
 
 
-## License and Citation
-All code is provided for research purposes only and without any warranty. Any commercial use requires our consent. When using the code in your research work, please cite the following paper:
+## Citation
+When using the code in your work, please cite the following paper:
 
     @InProceedings{Lunscher_2017_ICCV_Workshops,
     author = {Lunscher, Nolan and Zelek, John},
