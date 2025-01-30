@@ -41,7 +41,6 @@ This program has the below dependencies but will likely work with newer versions
 
 
 ## Citation 
-
 When using the code in your work, please cite the following paper:
 
     @InProceedings{Lunscher_2017_ICCV_Workshops,
